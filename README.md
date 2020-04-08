@@ -4,10 +4,11 @@ With many of us around the world being encouraged to stay indoors and work from 
 
 Day  | Problem
 ---------- | --------
-1 | Single Number
-2 | Happy Number
-3 | Maximum Subarray
-4 | Move Zeroes
-5 | Best to Buy and Sell Stock II
-6 | Group Anagrams
-7 | Counting Elements
+1 | [Single Number](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/1-SingleNumber.py)
+2 | [Happy Number](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/2-Happy-Number.py)
+3 | [Maximum Subarray](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/3-Maximum-Subarray.py)
+4 | [Move Zeroes](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/4-Move-Zeroes.py)
+5 | [Best to Buy and Sell Stock II](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/5-Best-Time-to-Buy-and-Sell-Stock-II.py)
+6 | [Group Anagrams](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/6-Group-Anagrams.py)
+7 | [Counting Elements](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/7-Counting-Elements.py)
+8 | [Middle of Linked List](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/8-Middle-of-the-linked-list.py)
