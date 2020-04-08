@@ -28,7 +28,9 @@ def moveZeroes(nums):
     return nums
 
 if __name__ == "__main__":
-    liStr = input("\nProblem 4: Enter your list of integers separated by commas:")
-    li = []
+    liStr = input("\nProblem 5: Enter your list of integers separated by commas:")
+    li = liNum = []
     li = liStr.split(",")
-    print("Result:\t",moveZeroes(li))
+    for i in li:
+        liNum.append(int(i))
+    print("Result:\t",moveZeroes(liNum))
