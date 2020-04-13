@@ -30,14 +30,10 @@ def lastStoneWeight(stones):
     while(i<=len(stones)):
         stones.sort()
         if (len(stones)>1):
-            smash = stones[-1:][0] - stones[-2:-1][0]
-            stones.pop()
-            stones.pop()
-            stones.append(smash)
-            i = i+2
+            stones.append(stones.pop() - stones.pop())
         else:
             return stones[0]
-    
+
     return stones[0]
 
 
