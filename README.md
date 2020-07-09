@@ -24,3 +24,4 @@ Day  | Problem
 19 | [Search In Rotated Sorted Array](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/19-Search-In-Rotated-Sorted-Array.py)
 20 | [Construct Binary Search Tree from Preorder Traversal](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/20-Construct-Binary-Search-Tree-from-Preorder-Traversal.py)
 21 | [Leftmost Column with at least a one](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/21-Leftmost-Column-with-at-Least-a-One.py)
+24 | [LRU-Cache](https://github.com/ravikumark815/30-Day-LeetCoding-Challenge/blob/master/24-LRU-Cache.py)
